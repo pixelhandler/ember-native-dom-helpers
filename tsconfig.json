@@ -12,6 +12,7 @@
     }
   },
   "include": [
-    "app/**/*"
+    "app/**/*",
+    "addon-test-support/*"
   ]
 }
